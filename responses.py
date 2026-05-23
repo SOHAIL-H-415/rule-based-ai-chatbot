@@ -49,14 +49,15 @@ INTENTS = {
     "creator": {
         "keywords": ["creator", "who made you", "who built you", "developer", "author"],
         "responses": [
-            "I was developed as part of an AI Software Engineering Internship project by a motivated student.\n"
-            "My goal is to demonstrate clean code, modular architecture, and deterministic input processing!"
+            "I was developed by Diwan Mohamed H as part of an AI Software Engineering Internship project!",
+            "My creator is Diwan Mohamed H. I was built as a deterministic AI assistant for an engineering internship.",
+            "I was created by Diwan Mohamed H to showcase clean, modular Python software engineering fundamentals."
         ]
     },
     "internship": {
         "keywords": ["internship", "intern", "work", "role", "experience"],
         "responses": [
-            "This project is a key milestone in my AI Software Engineering Internship!\n"
+            "This project is a key milestone in Diwan Mohamed H's AI Software Engineering Internship!",
             "It demonstrates standard software engineering practices: modular design, input sanitization, and structured testing."
         ]
     },
