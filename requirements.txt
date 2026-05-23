@@ -1,0 +1,13 @@
+# =============================================================================
+# Rule-Based AI Chatbot - Requirements
+# =============================================================================
+#
+# This project is designed to run completely within the standard Python environment.
+# It does NOT require any external packages (no pip installs needed!).
+# All features are implemented using standard libraries (os, sys, datetime, random).
+#
+# Minimum Python Version: Python 3.6+
+#
+# To execute the chatbot, simply run:
+# python main.py
+#
